@@ -1,0 +1,4 @@
+model_weights/
+data/Frames/
+data/extended_images_lpips/
+runs/
